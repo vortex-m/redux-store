@@ -1,8 +1,36 @@
-# React + Vite
+# Redux Store Example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to set up and use a Redux store in a React application. It includes examples of actions, reducers, and how to connect components to the store.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example](#example)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Centralized state management using Redux
+- Example actions and reducers
+- Easy integration with React components
+- Clear separation of concerns
+
+## Technologies
+
+- React
+- Redux
+- Redux Toolkit
+- Tailwind CSS (for styling)
+
+## Installation
+
+To get started with this project, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/mkj0019/redux-store.git
+cd redux-store
+npm install
